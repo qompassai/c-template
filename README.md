@@ -1,3 +1,5 @@
+> **ARCHIVED (D-831, 2026-11-03):** this template has been folded into [qompassai/c](https://github.com/qompassai/c/tree/main/template) — new projects start from there. This repo is kept read-only for history.
+
 <!-- qompassai/c-template/README.md -->
 <!-- Replace C, Template for Qompass AI C projects. and c when you instantiate this template. -->
 
